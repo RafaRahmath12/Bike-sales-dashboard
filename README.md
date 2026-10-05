@@ -94,15 +94,3 @@ Bike-Sales-Dashboard/
 * Identifying customer behavior patterns
 * Communicating insights through visualizations
 
----
-
-## 👨‍💻 Author
-
-**Rafa Rahmath**
-
-Aspiring Data Analyst focused on **Data Analytics, Business Intelligence, and Data Visualization**.
-
-**Skills:** Excel · SQL · Python · Power BI · Data Analysis
-
----
-
