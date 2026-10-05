@@ -8,7 +8,7 @@ The project transforms raw customer data into an interactive dashboard using **d
 
 ## 📊 Dashboard
 
-![Bike Sales Dashboard](https://drive.google.com/file/d/1cms7HwIWhMBCcdaNU3pS-LZaKndfjpiu/view?usp=sharing)
+![Bike Sales Dashboard](Bike Dashboard.png)
 
 ### Key Areas Analyzed
 
